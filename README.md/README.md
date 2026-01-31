@@ -3,7 +3,7 @@
 A console-based Car Pooling application developed using **Core Java**, **JDBC**, and **MySQL**.
 This project allows users to register, publish rides, search rides, book seats, and manage bookings.
 
----
+
 
 ## 📌 Features
 
